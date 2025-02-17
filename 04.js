@@ -13,12 +13,12 @@ while(contador >= 0){
 let numero = prompt('Digite um numero para contagem regressiva');
 while(numero > 0){
     numero --;
-    console.log(numero)
+    console.log(numero);
 }
 
-let contador = prompt ("Digite um número para Contagem Progressiva")
+let contador = prompt ('Digite um número para contagem progressiva');
 let numero = 0; 
 while (contador >= numero) {
-  console.log(numero)
+  console.log(numero);
   numero++;
 }
