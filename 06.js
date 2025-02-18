@@ -46,7 +46,7 @@ while(numero <= 10){
     numero ++;
 }
 
-nota = prompt(' Qual a sua nota?');
+nota = prompt('Qual a sua nota?');
 if (nota >= 7){
     console.log('Aprovado!');
 } else {
